@@ -1,2 +1,1 @@
-# hello-word
-My first repository on gitHub
+## my hello
